@@ -5,7 +5,7 @@
 
 ## Overview
 
-The following source code located in /orginal/detect_usbwebcam.py is a program that modified this example: [Link](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi). This is another example for Tensorflow lite with Raspberry Pi using USB webcam based on Pi camera version. In this example, you need to add one more from the settings that you performed on the Pi camera version. That is to install opencv.
+The following source code located in /original/detect_usbwebcam.py is a program that modified this example: [Link](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi). This is another example for Tensorflow lite with Raspberry Pi using USB webcam based on Pi camera version. In this example, you need to add one more from the settings that you performed on the Pi camera version. That is to install opencv.
 
 
 
